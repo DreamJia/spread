@@ -1,0 +1,53 @@
+{
+  "arr": [{
+    "orderNumber": "100201",
+    "orderTime": "2018-03-12 15:30:24",
+    "userId": "002",
+    "belongToAgent": "全国总代理",
+    "buyMoudle": "餐饮/在线点餐系统",
+    "isFree": "是",
+    "expireTime": "2020-03-11 15:30:23",
+    "orderTotal": "1000"
+
+  }, {
+    "orderNumber": "100202",
+    "orderTime": "2018-03-12 15:30:24",
+    "userId": "002",
+    "belongToAgent": "华东总代理",
+    "buyMoudle": "美容美发系统",
+    "isFree": "是",
+    "expireTime": "2020-03-11 15:30:23",
+    "orderTotal": "1500"
+
+  }, {
+    "orderNumber": "100203",
+    "orderTime": "2018-03-12 15:30:24",
+    "userId": "002",
+    "belongToAgent": "华北总代理",
+    "buyMoudle": "餐饮/在线点餐系统",
+    "isFree": "否",
+    "expireTime": "2020-03-11 15:30:23",
+    "orderTotal": "2000"
+
+  }, {
+    "orderNumber": "100204",
+    "orderTime": "2018-03-12 15:30:24",
+    "userId": "002",
+    "belongToAgent": "华北总代理",
+    "buyMoudle": "餐饮/在线点餐系统",
+    "isFree": "是",
+    "expireTime": "2020-03-11 15:30:23",
+    "orderTotal": "50000"
+
+  }, {
+    "orderNumber": "100205",
+    "orderTime": "2018-03-12 15:30:24",
+    "userId": "002",
+    "belongToAgent": "东北总代理",
+    "buyMoudle": "餐饮/在线点餐系统",
+    "isFree": "否",
+    "expireTime": "2020-03-11 15:30:23",
+    "orderTotal": "16900"
+
+  }]
+}
